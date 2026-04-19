@@ -1,0 +1,14 @@
+mpi_matrix_mult
+matrix_a.txt
+matrix_b.txt
+result.txt
+tmp_run.out
+mpi1.out
+mpi1.err
+mpi2.out
+mpi2.err
+mpi4.out
+mpi4.err
+mpi_all.out
+mpi_all.err
+__pycache__/
